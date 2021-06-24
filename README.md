@@ -8,7 +8,8 @@
 
 ## About & Features
 
-**Gerez** is a car servicing website. It have an Dashboard page. It have Its won database.
+**Gerez** is a car servicing website. It have Its won database.  It have an Dashboard page.
+
 ### Front-end Technology : 
 - **React, React-Router-Dom,**
 - **React-Bootstrap**
@@ -21,10 +22,10 @@
 - **Express**
 - **MongoDB**
 
-### `Website Link :` [https://my-gerez.web.app](https://my-gerez.web.app)
+### `Website Link :` [https://my-gerez-55d9f.web.app/](https://my-gerez-55d9f.web.app/)
 
 <hr/>
 
-**[Front-end Repository](https://github.com/SohelIslamImran/gerez)**
+**[Front-end Repository](https://github.com/RAHATosman/gerez)**
 <hr/>
 # gerez-server
